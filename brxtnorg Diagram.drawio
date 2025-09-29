@@ -884,6 +884,18 @@
         <mxCell id="PN02l-CEwlqbm5kk0Msy-87" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
           <mxGeometry x="340" y="-190" width="50" height="31.5" as="geometry" />
         </mxCell>
+        <mxCell id="PN02l-CEwlqbm5kk0Msy-93" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;" vertex="1" parent="1">
+          <mxGeometry x="39.15" y="580" width="150.85" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PN02l-CEwlqbm5kk0Msy-94" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.external_storage;network2IconYOffset=-0.0267;network2IconW=1;network2IconH=0.7987;" vertex="1" parent="1">
+          <mxGeometry x="460" y="590" width="150.24" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PN02l-CEwlqbm5kk0Msy-95" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataServer;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;" vertex="1" parent="1">
+          <mxGeometry x="39.150000000000006" y="730" width="150.85" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="PN02l-CEwlqbm5kk0Msy-96" value="" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.external_storage;network2IconYOffset=-0.0267;network2IconW=1;network2IconH=0.7987;" vertex="1" parent="1">
+          <mxGeometry x="460" y="750" width="150.24" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
