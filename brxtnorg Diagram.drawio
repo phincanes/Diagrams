@@ -1046,8 +1046,14 @@
         <mxCell id="K91ndruuiLk9l1z2SBjZ-203" value="" style="shape=mxgraph.rack.cisco.cisco_web_security_appliance_s170;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
           <mxGeometry x="33" y="80.2" width="162" height="14.8" as="geometry" />
         </mxCell>
+        <mxCell id="xMztrM_Gkbz8IJ48EbBW-3" value="PVE2 PVE3 eGPU RTX 3090" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="K91ndruuiLk9l1z2SBjZ-1">
+          <mxGeometry x="33" y="95" width="162" height="29.6" as="geometry" />
+        </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-202" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.shelf;container=1;collapsible=0" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
           <mxGeometry x="33" y="124.60000000000001" width="162" height="14.8" as="geometry" />
+        </mxCell>
+        <mxCell id="xMztrM_Gkbz8IJ48EbBW-4" value="TrueNASHulk TrueNASLoki Seagate 28TB usb" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="K91ndruuiLk9l1z2SBjZ-1">
+          <mxGeometry x="33" y="169" width="162" height="29.6" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-89" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.shelf;container=1;collapsible=0" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
           <mxGeometry x="33" y="228.20000000000002" width="162" height="14.8" as="geometry" />
@@ -1055,11 +1061,14 @@
         <mxCell id="K91ndruuiLk9l1z2SBjZ-205" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_2u;" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
           <mxGeometry x="33" y="243" width="162" height="29.6" as="geometry" />
         </mxCell>
+        <mxCell id="xMztrM_Gkbz8IJ48EbBW-5" value="qdevice &lt;br&gt;Home Assistant&lt;br&gt;APC 1500 SmartUPS&lt;br&gt;Monitoring endpoint" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="K91ndruuiLk9l1z2SBjZ-1">
+          <mxGeometry x="33" y="317" width="162" height="29.6" as="geometry" />
+        </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-88" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.shelf;container=1;collapsible=0" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
           <mxGeometry x="33" y="361.40000000000003" width="162" height="14.8" as="geometry" />
         </mxCell>
-        <mxCell id="K91ndruuiLk9l1z2SBjZ-206" value="APC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="393" y="830" width="50" height="30" as="geometry" />
+        <mxCell id="K91ndruuiLk9l1z2SBjZ-206" value="APC&lt;br&gt;Raspberry Pi 5 x 2&lt;br&gt;Zimaboard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="394" y="815" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-207" value="Synology RS1221+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="392" y="763" width="130" height="30" as="geometry" />
