@@ -1037,26 +1037,23 @@
         <mxCell id="K91ndruuiLk9l1z2SBjZ-215" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.1u_rack_server;" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
           <mxGeometry x="33" y="21" width="162" height="14.8" as="geometry" />
         </mxCell>
-        <mxCell id="K91ndruuiLk9l1z2SBjZ-90" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_rack_mount_patch_panel_24_ports;" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
-          <mxGeometry x="33" y="50.6" width="162" height="14.8" as="geometry" />
-        </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-214" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.1u_rack_server;" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
-          <mxGeometry x="33" y="65.4" width="162" height="14.8" as="geometry" />
+          <mxGeometry x="33" y="35.8" width="162" height="14.8" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-201" value="" style="shape=mxgraph.rack.cisco.cisco_web_security_appliance_s170;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
-          <mxGeometry x="33" y="95" width="162" height="14.8" as="geometry" />
+          <mxGeometry x="33" y="65.4" width="162" height="14.8" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-203" value="" style="shape=mxgraph.rack.cisco.cisco_web_security_appliance_s170;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
-          <mxGeometry x="33" y="109.80000000000001" width="162" height="14.8" as="geometry" />
+          <mxGeometry x="33" y="80.2" width="162" height="14.8" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-202" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.shelf;container=1;collapsible=0" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
-          <mxGeometry x="33" y="154.20000000000002" width="162" height="14.8" as="geometry" />
+          <mxGeometry x="33" y="124.60000000000001" width="162" height="14.8" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-89" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.shelf;container=1;collapsible=0" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
-          <mxGeometry x="33" y="243" width="162" height="14.8" as="geometry" />
+          <mxGeometry x="33" y="228.20000000000002" width="162" height="14.8" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-205" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_2u;" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
-          <mxGeometry x="33" y="257.8" width="162" height="29.6" as="geometry" />
+          <mxGeometry x="33" y="243" width="162" height="29.6" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-88" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.shelf;container=1;collapsible=0" parent="K91ndruuiLk9l1z2SBjZ-1" vertex="1">
           <mxGeometry x="33" y="361.40000000000003" width="162" height="14.8" as="geometry" />
@@ -1077,16 +1074,13 @@
           <mxGeometry x="400" y="646" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-211" value="10GB Agg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="399" y="622" width="80" height="30" as="geometry" />
+          <mxGeometry x="399" y="594" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-212" value="10GB Agg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="399" y="609" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="K91ndruuiLk9l1z2SBjZ-213" value="patch panel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="394" y="562" width="90" height="30" as="geometry" />
+          <mxGeometry x="399" y="580" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-216" value="24port poe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="399" y="579" width="80" height="30" as="geometry" />
+          <mxGeometry x="395" y="550" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="K91ndruuiLk9l1z2SBjZ-217" value="UDM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="410" y="535" width="50" height="30" as="geometry" />
